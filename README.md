@@ -33,7 +33,7 @@ config_deepsetファイルなどに設定を保存して学習を始める．
 config_playファイルに設定を保存して実行を始める．設定する各種パラメータは学習時に書き出したconfigファイルに記録してあるので，基本的にはその値を用いる．
 
     cd maddpg
-    python play.py play
+    python play.py
 
 
 ### Acknowledgement
